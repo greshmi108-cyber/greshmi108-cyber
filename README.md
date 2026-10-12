@@ -46,15 +46,15 @@ Software developer and B.Tech student at **MANIT Bhopal**, building end-to-end w
 
 ## 🚀 Featured Projects
 
-### 🏥 [CareWise – AI Healthcare Platform](https://github.com/your-username/carewise)
+### 🏥 [CareWise – AI Healthcare Platform](https://github.com/greshmi108-cyber/carewise)
 A full-stack healthcare platform with appointment booking, patient profiles, doctor reviews, and AI-powered health assistance. Features secure authentication, OpenRouter AI for health recommendations, and Cloudinary for media management.
 `React` `Node.js` `Express` `MongoDB` `OpenRouter` `Cloudinary` — Deployed on Render + Vercel
 
-### 🛡️ [FinGuard AI – UPI Fraud Detection Platform](https://github.com/your-username/finguard-ai)
+### 🛡️ [FinGuard AI – UPI Fraud Detection Platform](https://github.com/greshmi108-cyber/finguard-ai)
 An AI-powered fraud detection platform with transaction monitoring, risk analysis, case management, and real-time fraud scoring. OpenRouter AI generates fraud explanations and actionable insights, backed by secure REST APIs with JWT authentication.
 `React` `Node.js` `Express` `MongoDB` `JWT` `OpenRouter` — Deployed on Render + Vercel
 
-### 🍿 [GrabAndCorn – Movie Ticket Booking Platform](https://github.com/your-username/grabandcorn)
+### 🍿 [GrabAndCorn – Movie Ticket Booking Platform](https://github.com/greshmi108-cyber/grabandcorn)
 A full-stack movie ticket booking app with movie browsing, seat selection, and booking management. Includes Clerk authentication with protected routes and a responsive React + Redux Toolkit frontend.
 `React (Vite)` `Redux Toolkit` `Node.js` `Express` `MongoDB` `Clerk Auth`
 
