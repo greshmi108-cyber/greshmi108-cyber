@@ -62,9 +62,9 @@ A full-stack movie ticket booking app with movie browsing, seat selection, and b
 
 ## 📊 GitHub Stats
 
-![Greshmi's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=default)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=your-username)
+![Greshmi's GitHub stats](https://github-readme-stats.vercel.app/api?username=greshmi108-cyber&show_icons=true&theme=default)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=greshmi108-cyber&layout=compact)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=greshmi108-cyber)
 
 ---
 
