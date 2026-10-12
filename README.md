@@ -46,11 +46,11 @@ Software developer and B.Tech student at **MANIT Bhopal**, building end-to-end w
 
 ## 🚀 Featured Projects
 
-### 🏥 [CareWise – AI Healthcare Platform](https://github.com/greshmi108-cyber/carewise)
+### 🏥 [CareWise – AI Healthcare Platform](https://github.com/greshmi108-cyber/carewise-final)
 A full-stack healthcare platform with appointment booking, patient profiles, doctor reviews, and AI-powered health assistance. Features secure authentication, OpenRouter AI for health recommendations, and Cloudinary for media management.
 `React` `Node.js` `Express` `MongoDB` `OpenRouter` `Cloudinary` — Deployed on Render + Vercel
 
-### 🛡️ [FinGuard AI – UPI Fraud Detection Platform](https://github.com/greshmi108-cyber/finguard-ai)
+### 🛡️ [FinGuard AI – UPI Fraud Detection Platform](https://github.com/greshmi108-cyber/UPI-FRAUD)
 An AI-powered fraud detection platform with transaction monitoring, risk analysis, case management, and real-time fraud scoring. OpenRouter AI generates fraud explanations and actionable insights, backed by secure REST APIs with JWT authentication.
 `React` `Node.js` `Express` `MongoDB` `JWT` `OpenRouter` — Deployed on Render + Vercel
 
